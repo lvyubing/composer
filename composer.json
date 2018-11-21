@@ -1,0 +1,20 @@
+{
+    "name": "lvyubing/think-firebird",
+    "version": "1.0.0",
+    "description": "Firebird driver for thinkphp5",
+    "license": "Apache-2.0",
+    "type": "think-extend",
+    "authors": [
+        {
+            "name": "lvyubing",
+            "email": "lvyubing163@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "think\\firebird\\": "src"
+        },
+        "files": [
+        ]
+    }
+}
